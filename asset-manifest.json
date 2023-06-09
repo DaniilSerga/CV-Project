@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/CV-Project/static/css/main.1d7d83f8.css",
-    "main.js": "/CV-Project/static/js/main.e9b93edf.js",
+    "main.js": "/CV-Project/static/js/main.54c4451f.js",
     "static/css/214.86fe5c8d.chunk.css": "/CV-Project/static/css/214.86fe5c8d.chunk.css",
-    "static/js/214.595adfe6.chunk.js": "/CV-Project/static/js/214.595adfe6.chunk.js",
+    "static/js/214.93cc6688.chunk.js": "/CV-Project/static/js/214.93cc6688.chunk.js",
     "static/css/824.31d6cfe0.chunk.css": "/CV-Project/static/css/824.31d6cfe0.chunk.css",
     "static/js/824.2822e901.chunk.js": "/CV-Project/static/js/824.2822e901.chunk.js",
     "static/media/weatherApp.webp": "/CV-Project/static/media/weatherApp.e6cdc8fed2143718d787.webp",
@@ -20,13 +20,13 @@
     "static/media/phone.svg": "/CV-Project/static/media/phone.5d52ce622e2b77b5b332a79ac4163cf9.svg",
     "static/media/brand-telegram.svg": "/CV-Project/static/media/brand-telegram.c8535156ca5382f746eaa88509ab032c.svg",
     "main.1d7d83f8.css.map": "/CV-Project/static/css/main.1d7d83f8.css.map",
-    "main.e9b93edf.js.map": "/CV-Project/static/js/main.e9b93edf.js.map",
+    "main.54c4451f.js.map": "/CV-Project/static/js/main.54c4451f.js.map",
     "214.86fe5c8d.chunk.css.map": "/CV-Project/static/css/214.86fe5c8d.chunk.css.map",
-    "214.595adfe6.chunk.js.map": "/CV-Project/static/js/214.595adfe6.chunk.js.map",
+    "214.93cc6688.chunk.js.map": "/CV-Project/static/js/214.93cc6688.chunk.js.map",
     "824.2822e901.chunk.js.map": "/CV-Project/static/js/824.2822e901.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d7d83f8.css",
-    "static/js/main.e9b93edf.js"
+    "static/js/main.54c4451f.js"
   ]
 }
