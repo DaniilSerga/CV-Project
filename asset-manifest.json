@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/CV-Project/static/css/main.1d7d83f8.css",
+    "main.js": "/CV-Project/static/js/main.903fc925.js",
+    "static/css/769.fd0817f0.chunk.css": "/CV-Project/static/css/769.fd0817f0.chunk.css",
+    "static/js/769.8f7fb67b.chunk.js": "/CV-Project/static/js/769.8f7fb67b.chunk.js",
+    "static/css/824.31d6cfe0.chunk.css": "/CV-Project/static/css/824.31d6cfe0.chunk.css",
+    "static/js/824.2822e901.chunk.js": "/CV-Project/static/js/824.2822e901.chunk.js",
+    "static/media/weatherApp.webp": "/CV-Project/static/media/weatherApp.e6cdc8fed2143718d787.webp",
+    "static/media/cozyHouse.webp": "/CV-Project/static/media/cozyHouse.3a8d524726d1d6c7ba4f.webp",
+    "static/media/wpfHomework.webp": "/CV-Project/static/media/wpfHomework.c290d8ad188aaee0a04c.webp",
+    "static/media/cvPhoto.webp": "/CV-Project/static/media/cvPhoto.9711632aeb8b562ecaeb.webp",
+    "static/media/oasis.webp": "/CV-Project/static/media/oasis.5c05747dcb5a8c9c3991.webp",
+    "static/media/cvBackground.svg": "/CV-Project/static/media/cvBackground.8578e7914a606845c270.svg",
+    "static/media/inTouch.webp": "/CV-Project/static/media/inTouch.4bfd6d99df5deed1080a.webp",
+    "static/media/brand-github.svg": "/CV-Project/static/media/brand-github.db12bddef622e4f582e188b030057490.svg",
+    "static/media/brand-linkedin.svg": "/CV-Project/static/media/brand-linkedin.1b4148fff74b26065472cb4a025ce0d3.svg",
+    "index.html": "/CV-Project/index.html",
+    "static/media/mail.svg": "/CV-Project/static/media/mail.8d633e79beb2a9991fe48b837d9f2d72.svg",
+    "static/media/phone.svg": "/CV-Project/static/media/phone.5d52ce622e2b77b5b332a79ac4163cf9.svg",
+    "static/media/brand-telegram.svg": "/CV-Project/static/media/brand-telegram.c8535156ca5382f746eaa88509ab032c.svg",
+    "main.1d7d83f8.css.map": "/CV-Project/static/css/main.1d7d83f8.css.map",
+    "main.903fc925.js.map": "/CV-Project/static/js/main.903fc925.js.map",
+    "769.fd0817f0.chunk.css.map": "/CV-Project/static/css/769.fd0817f0.chunk.css.map",
+    "769.8f7fb67b.chunk.js.map": "/CV-Project/static/js/769.8f7fb67b.chunk.js.map",
+    "824.2822e901.chunk.js.map": "/CV-Project/static/js/824.2822e901.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7d83f8.css",
+    "static/js/main.903fc925.js"
+  ]
+}
