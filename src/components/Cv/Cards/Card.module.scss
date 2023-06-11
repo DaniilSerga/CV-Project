@@ -1,0 +1,129 @@
+.cardContainer {
+    display: flex;
+    align-self: center;
+    gap: 30px;
+    width: 300px;
+    height: 200px;
+    background-color: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: width 0.5s ease-out;
+    box-shadow: 5px 5px 5px #595959;
+
+    &:hover {
+        width: 600px;
+
+        .sideInfo {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            width: 100%;
+
+            & > p,
+            & > div > p,
+            & .title {
+                opacity: 1;
+                transition: opacity 2s;
+            }
+        }
+    }
+}
+
+.sideInfo {
+    width: 0;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+
+    &::-webkit-scrollbar {
+        width: 7px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background-color: #cecece;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background-color: #999999;
+        border-radius: 20px;
+        transition: background-color 1s;
+
+        &:hover {
+            background-color: #797979;
+        }
+    }
+    
+    & > p {
+        opacity: 0;
+        font-family: 'Raleway', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        color: #141414;
+    }
+
+    & > div > p:not(.title) {
+        opacity: 0;
+        font-family: 'Nunito Sans', sans-serif;
+        font-size: 16px;
+        color: #595959;
+    }
+}
+
+.projectCover {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+
+.coverContainer {
+    max-width: 300px;
+    overflow: hidden;
+
+    & > img {
+        width: auto;
+        height: 200px;
+    }
+}
+
+.title {
+    opacity: 0;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #464646;
+}
+
+.tasksContainer > p:not(.title),
+.achievmentsContainer > p:not(.title) {
+    margin-left: 10px;
+    font-size: 16px;
+
+    &::before {
+        content: '>';
+    }
+}
+
+.iconContainer {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-top: 2px solid #999999;
+    padding-top: 5px;
+    margin-top: 5px;
+
+    & > a > img {
+        z-index: 1;
+        width: 30px;
+        height: auto;
+        transition: all 0.3s;
+
+        &:hover {
+            opacity: 0.5;
+        }
+    }
+}

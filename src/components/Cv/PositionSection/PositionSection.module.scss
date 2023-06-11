@@ -1,0 +1,40 @@
+.positionSection {
+    display: flex;
+    flex-direction: column;
+
+    & > p:first-of-type {
+        margin-top: 15px;
+    }
+
+    & > p {
+        font-family: 'Nunito Sans', sans-serif;
+        font-size: 18px;
+    }
+
+    & > ul {
+        padding-left: 20px;
+        list-style: none;
+
+        & > li {
+            display: flex;
+            align-items: center;
+            font-family: 'Nunito Sans', sans-serif;
+            font-size: 17px;
+            font-style: italic;
+        }
+
+        & > li:before {
+            content: '>';
+            margin-right: 5px;
+            font-family: 'Nunito Sans', sans-serif;
+            font-size: 18px;
+        }
+    }
+}
+
+.subtitle {
+    font-size: 22px;
+    font-family: 'Raleway', sans-serif;
+    color: #292929;
+    border-bottom: 2px solid #cecece;
+}
