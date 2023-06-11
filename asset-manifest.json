@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/CV-Project/static/css/main.1d7d83f8.css",
-    "main.js": "/CV-Project/static/js/main.96faa29b.js",
-    "static/css/214.86fe5c8d.chunk.css": "/CV-Project/static/css/214.86fe5c8d.chunk.css",
-    "static/js/214.93cc6688.chunk.js": "/CV-Project/static/js/214.93cc6688.chunk.js",
+    "main.js": "/CV-Project/static/js/main.a470019b.js",
+    "static/css/235.13f39721.chunk.css": "/CV-Project/static/css/235.13f39721.chunk.css",
+    "static/js/235.5395c5bc.chunk.js": "/CV-Project/static/js/235.5395c5bc.chunk.js",
     "static/css/824.31d6cfe0.chunk.css": "/CV-Project/static/css/824.31d6cfe0.chunk.css",
     "static/js/824.2822e901.chunk.js": "/CV-Project/static/js/824.2822e901.chunk.js",
     "static/media/weatherApp.webp": "/CV-Project/static/media/weatherApp.e6cdc8fed2143718d787.webp",
@@ -13,20 +13,20 @@
     "static/media/oasis.webp": "/CV-Project/static/media/oasis.5c05747dcb5a8c9c3991.webp",
     "static/media/cvBackground.svg": "/CV-Project/static/media/cvBackground.8578e7914a606845c270.svg",
     "static/media/inTouch.webp": "/CV-Project/static/media/inTouch.4bfd6d99df5deed1080a.webp",
-    "static/media/brand-github.svg": "/CV-Project/static/media/brand-github.db12bddef622e4f582e188b030057490.svg",
-    "static/media/brand-linkedin.svg": "/CV-Project/static/media/brand-linkedin.1b4148fff74b26065472cb4a025ce0d3.svg",
+    "static/media/brand-github.svg": "/CV-Project/static/media/brand-github.07e02693cf34c07e92a3e6632fe63150.svg",
+    "static/media/brand-linkedin.svg": "/CV-Project/static/media/brand-linkedin.6f14d1d5dd7e4432ab7c2a812749940c.svg",
     "index.html": "/CV-Project/index.html",
-    "static/media/mail.svg": "/CV-Project/static/media/mail.8d633e79beb2a9991fe48b837d9f2d72.svg",
-    "static/media/phone.svg": "/CV-Project/static/media/phone.5d52ce622e2b77b5b332a79ac4163cf9.svg",
-    "static/media/brand-telegram.svg": "/CV-Project/static/media/brand-telegram.c8535156ca5382f746eaa88509ab032c.svg",
+    "static/media/mail.svg": "/CV-Project/static/media/mail.43c149577c370f58792bf32b58e70b98.svg",
+    "static/media/phone.svg": "/CV-Project/static/media/phone.c231d785bf872fb95b383f62393ff6e5.svg",
+    "static/media/brand-telegram.svg": "/CV-Project/static/media/brand-telegram.8448bbda7969eb154c773fd11f016d24.svg",
     "main.1d7d83f8.css.map": "/CV-Project/static/css/main.1d7d83f8.css.map",
-    "main.96faa29b.js.map": "/CV-Project/static/js/main.96faa29b.js.map",
-    "214.86fe5c8d.chunk.css.map": "/CV-Project/static/css/214.86fe5c8d.chunk.css.map",
-    "214.93cc6688.chunk.js.map": "/CV-Project/static/js/214.93cc6688.chunk.js.map",
+    "main.a470019b.js.map": "/CV-Project/static/js/main.a470019b.js.map",
+    "235.13f39721.chunk.css.map": "/CV-Project/static/css/235.13f39721.chunk.css.map",
+    "235.5395c5bc.chunk.js.map": "/CV-Project/static/js/235.5395c5bc.chunk.js.map",
     "824.2822e901.chunk.js.map": "/CV-Project/static/js/824.2822e901.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d7d83f8.css",
-    "static/js/main.96faa29b.js"
+    "static/js/main.a470019b.js"
   ]
 }
